@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alex Bieber</h1>
+<h1 align="center">Hi 👋, I'm CoderboyG</h1>
 <h3 align="center">A Researcher, Programmer, Content Creator, Influencer </h3>
 <image align="right" alt="Coding" width="400" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Your Queries!**
 
-- 📫 How to reach me **hackthetrack1234@gmail.com**
+- 📫 How to reach me **rogu9967@gmail.com@gmail.com**
 
 - ⚡ Fun fact **You Are Safe on the INTERNET !🔴**
 
