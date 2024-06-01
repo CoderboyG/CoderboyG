@@ -2,7 +2,7 @@
 <h3 align="center">A Researcher, Programmer, Content Creator, Influencer </h3>
 <image align="right" alt="Coding" width="400" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 
-<p align="left"> <img src="https://x.com/roshang1h?t=vR_s9xdUTSXOEcIOLLICDg&s=09" alt="Roshang1h" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexbieber&label=Profile%20views&color=0e75b6&style=flat" alt="Roshang1h" /> </p>
 
 <p align="left"> <a href="https://x.com/roshang1h?t=okjd2STh1M5gtrn0vMGTAg&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/alexbieber12341?logo=twitter&style=for-the-badge" alt="roshan1h" /></a> </p>
 
