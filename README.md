@@ -164,7 +164,7 @@
 </p>
 # Donate your money and it will inspire soo many people to live their life
 
-<p><img align="left" src="https://github.com/CoderboyG" alt="CoderboyG" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexbieber&show_icons=true&locale=en&layout=compact" alt="CoderboyG" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexbieber&show_icons=true&locale=en" alt="roshan1h" /></p>
 
